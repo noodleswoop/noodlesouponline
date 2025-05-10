@@ -9,7 +9,8 @@ tools:
 
 programming:
   - item: Python
-  - item: HTML + CSS
+  - item: SQL
+  - item: HTML+CSS
 
 certifications:
   - item: EIT (Engineer in Training)
