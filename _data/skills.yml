@@ -3,7 +3,6 @@ tools:
   - item: Salesforce
   - item: Google Workspace
   - item: Jira
-  - item: Python
   - item: Git + Github
   - item: Visio
 
