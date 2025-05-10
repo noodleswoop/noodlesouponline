@@ -1,33 +1,23 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
-
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
-
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Microsoft Excel
+  - item: Salesforce
+  - item: Google Workspace
+  - item: Jira
+  - item: Python
+  - item: Git + Github
+  - item: Visio
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+programming:
+  - item: Python
+  - item: HTML + CSS
+
+certifications:
+  - item: EIT (Engineer in Training)
+  - item: Professional Writing Certificate
+
+additional skills:
+  - item: Project Management
+  - item: Process Improvement
+  - item: Data Analysis
+  - item: Technical Writing
+  - item: Cross-Functional Team Collaboration
