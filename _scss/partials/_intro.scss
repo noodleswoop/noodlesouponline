@@ -52,6 +52,9 @@
   }
   &__hello {
     font-weight: 300;
+    .soup {
+      background-image: url('../img/emojis/soup.png');
+    }
     .wave-hand {
       background-image: url('../img/emojis/wave.png');
       margin-left: 10px;
